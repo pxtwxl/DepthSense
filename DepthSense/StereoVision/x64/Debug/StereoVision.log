@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\anujp\source\repos\StereoVision\main.cpp(15,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  StereoVision.cpp
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,42): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,42): warning C4244:         with
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,42): warning C4244:         [
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,42): warning C4244:             _Tp=int
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,42): warning C4244:         ]
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,27): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,27): warning C4244:         with
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,27): warning C4244:         [
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,27): warning C4244:             _Tp=int
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(46,27): warning C4244:         ]
+C:\Users\anujp\source\repos\StereoVision\StereoVision.cpp(65,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  StereoVision.vcxproj -> C:\Users\anujp\source\repos\StereoVision\x64\Debug\StereoVision.exe
